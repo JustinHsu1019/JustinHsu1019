@@ -1,1 +1,1 @@
-<img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" />
+<img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" width="100%" />
