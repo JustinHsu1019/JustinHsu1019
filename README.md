@@ -12,12 +12,12 @@ NCCU - BSc in Math Sciences
 
 ## Programming Languages
 
-<p>
+<a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
   <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
-</p>
+</a>
 
 ## Resume Preview
 
 <a href="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.pdf">
-  <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="Justin Hsu Resume Preview" width="600px" />
+  <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="Justin Hsu Resume Preview" />
 </a>
