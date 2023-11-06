@@ -2,6 +2,8 @@
 
 Software Engineer & AI Engineer at ChainSea
 
+Python Programming Tutor
+
 NCCU - BSc in Math Sciences
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
