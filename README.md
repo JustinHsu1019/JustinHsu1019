@@ -3,7 +3,7 @@
     <!-- Top languages card -->
     <td valign="top" width="50%">
       <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-        <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" />
+        <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" style="max-width: 100%;" />
       </a>
     </td>
     <!-- Profile Description -->
