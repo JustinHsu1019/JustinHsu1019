@@ -1,30 +1,23 @@
-<table>
-  <tr>
-    <!-- Top languages card -->
-    <td valign="top" width="50%">
-      <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-        <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" width="100%" />
-      </a>
-    </td>
-    <!-- Profile Description -->
-    <td valign="top" width="50%">
-      <h3>Hsin-Ling (Justin) Hsu</h3>
-      <p>Software Engineer & AI Engineer at ChainSea</p>
-      <p>NCCU - BSc in Math Sciences</p>
-      <p>Taipei, Taiwan</p>
-      <p><a href="mailto:justin.hsu.1019@gmail.com">justin.hsu.1019@gmail.com</a></p>
-      <p>
-        <a href="https://www.linkedin.com/in/justinhsu101999/">LinkedIn</a> •
-        <a href="https://www.instagram.com/justin.hsu.99/">Instagram</a> •
-        <a href="https://www.facebook.com/JustinHsu1019/">Facebook</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.pdf">
-        <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" width="100%" alt="簡歷預覽" />
-      </a>
-    </td>
-  </tr>
-</table>
+# Hsin-Ling (Justin) Hsu
+
+Software Engineer & AI Engineer at ChainSea
+
+NCCU - BSc in Math Sciences
+
+- Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
+- LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
+- Instagram: [justin.hsu.99](https://www.instagram.com/justin.hsu.99/)
+- Facebook: [JustinHsu1019](https://www.facebook.com/JustinHsu1019/)
+- YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
+
+## Programming Languages
+
+<p>
+  <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
+</p>
+
+## Resume Preview
+
+<a href="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.pdf">
+  <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="Justin Hsu Resume Preview" width="600px" />
+</a>
