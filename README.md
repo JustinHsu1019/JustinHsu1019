@@ -22,8 +22,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png
-" alt="簡歷預覽" />
+      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="簡歷預覽" />
     </td>
   </tr>
   <tr>
