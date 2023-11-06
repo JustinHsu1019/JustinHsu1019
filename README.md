@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <a href="https://bit.ly/JustinHsu">下載完整簡歷</a>
+      <big><a href="https://bit.ly/JustinHsu">下載完整簡歷</a></big>
     </td>
   </tr>
   <tr>
