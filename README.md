@@ -3,7 +3,7 @@
     <!-- Top languages card -->
     <td valign="top" width="50%">
       <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-        <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" style="max-width: 100%;" />
+        <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" width="100%" />
       </a>
     </td>
     <!-- Profile Description -->
@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="簡歷預覽" />
+      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" width="100%" alt="簡歷預覽" />
     </td>
   </tr>
 </table>
