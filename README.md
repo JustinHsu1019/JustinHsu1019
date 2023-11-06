@@ -1,5 +1,9 @@
 # Hsin-Ling (Justin) Hsu
 
+<a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
+  <img align="right" src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
+</a>
+
 Software Engineer & AI Engineer at ChainSea
 
 Python Programming Tutor
@@ -11,12 +15,6 @@ NCCU - BSc in Math Sciences
 - Instagram: [justin.hsu.99](https://www.instagram.com/justin.hsu.99/)
 - Facebook: [JustinHsu1019](https://www.facebook.com/JustinHsu1019/)
 - YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
-
-## Programming Languages
-
-<a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-  <img src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
-</a>
 
 ## Resume Preview
 
