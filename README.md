@@ -21,13 +21,13 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="簡歷預覽" />
+    <td colspan="2" valign="top" align="center">
+      <a href="https://bit.ly/JustinHsu">下載完整簡歷</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top" align="center">
-      <a href="https://bit.ly/JustinHsu">下載完整簡歷</a>
+    <td colspan="2" valign="top">
+      <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="簡歷預覽" />
     </td>
   </tr>
 </table>
