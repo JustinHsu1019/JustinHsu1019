@@ -13,6 +13,7 @@ Python Programming Tutor
 NCCU - BSc in Math Sciences
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
+- GitHub: [JustinHsu1019](https://github.com/JustinHsu1019/)
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [justin.hsu.99](https://www.instagram.com/justin.hsu.99/)
 - Facebook: [JustinHsu1019](https://www.facebook.com/JustinHsu1019/)
