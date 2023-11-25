@@ -6,11 +6,11 @@
 
 ## About Me
 
-Software Engineer & AI Engineer at [ChainSea](https://www.chainsea.com.tw)
+[✔](https://www.chainsea.com.tw) Software Engineer & AI Engineer at ChainSea
 
-[Python Programming Tutor](https://github.com/JustinHsu1019/Python-Programming-Tutorial)
+[✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
-[NCCU - BSc in Math Sciences](https://ms.nccu.edu.tw)
+[✔](https://ms.nccu.edu.tw) NCCU - BSc in Math Sciences
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - GitHub: [JustinHsu1019](https://github.com/JustinHsu1019/)
