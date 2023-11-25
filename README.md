@@ -18,6 +18,19 @@ NCCU - BSc in Math Sciences
 - Instagram: [justin.hsu.99](https://www.instagram.com/justin.hsu.99/)
 - YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
 
+## Areas of Expertise
+
+- Python Development 
+- Model Training & Deployment 
+
+## Project Development Experience
+
+1. ChainSea - AI Trainer System
+2. ChainSea - LLaMA Training and Deployment Research
+3. L'Oréal - Customer Service Recording Quality Inspection System
+4. WeMo - Customer Service Knowledge Base Q&A System
+5. Taiwan Power - Intelligent Robot Optimization Project
+
 ## Resume Preview
 
 <a href="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.pdf">
