@@ -15,7 +15,7 @@
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - GitHub: [JustinHsu1019](https://github.com/JustinHsu1019/)
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
-- Instagram: [justin.hsu.99](https://www.instagram.com/justin.hsu.99/)
+- Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 - YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
 
 ## Areas of Expertise
