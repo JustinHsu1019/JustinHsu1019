@@ -6,7 +6,7 @@
 
 ## About Me
 
-[✔](https://www.chainsea.com.tw) Software Engineer & AI Engineer at ChainSea
+[✔](https://www.chainsea.com.tw) Software & AI Engineer at ChainSea
 
 [✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
