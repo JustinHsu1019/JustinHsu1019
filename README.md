@@ -8,7 +8,9 @@
 
 [✔](https://www.chainsea.com.tw) Software & AI Engineer at ChainSea
 
-[✔](https://gdsc.community.dev/national-chengchi-university) Backend Engineer & Club Course Instructor '23 at Google DSC NCCU
+[✔](https://gdsc.community.dev/national-chengchi-university) Backend Engineer '23 at Google DSC NCCU
+
+[✔](https://gdsc.community.dev/national-chengchi-university) Club Course Instructor '23 at Google DSC NCCU
 
 [✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
