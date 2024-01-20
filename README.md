@@ -24,7 +24,7 @@
 
 ## Areas of Expertise
 
-- Python Development 
+- Software Development 
 - Model Training & Deployment 
 
 ## Project Development Experience
