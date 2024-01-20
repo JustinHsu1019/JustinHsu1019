@@ -6,7 +6,7 @@
 
 ## About Me
 
-[✔](https://www.chainsea.com.tw) Software & AI Engineer at ChainSea
+[✔](https://www.chainsea.com.tw) Software Engineer at ChainSea
 
 [✔](https://gdsc.community.dev/national-chengchi-university) Backend Engineer '23 at Google DSC NCCU
 
