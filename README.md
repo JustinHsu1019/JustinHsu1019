@@ -8,16 +8,16 @@
 
 [✔](https://www.chainsea.com.tw) Software Engineer at ChainSea
 
-[✔](https://gdsc.community.dev/national-chengchi-university) Backend Engineer '23 at Google DSC NCCU
+[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer '23 at Google DSC
 
-[✔](https://gdsc.community.dev/national-chengchi-university) Club Course Instructor '23 at Google DSC NCCU
+[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelancer at Justin Code
 
 [✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
 [✔](https://ms.nccu.edu.tw) NCCU - BSc in Math Sciences
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
-- GitHub: [JustinHsu1019](https://github.com/JustinHsu1019/)
+- Website: [Justin Code](https://justin-code.com)
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 - YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
