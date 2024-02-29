@@ -10,7 +10,7 @@
 
 [✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer '23 at Google DSC
 
-[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelancer at Justin Code
+[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
 
 [✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
