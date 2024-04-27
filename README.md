@@ -29,9 +29,9 @@
 
 ## Project Development Experience
 1. Taiwan Power - [Intelligent Robot Optimization Project](https://smartrobot.taipower.com.tw/Webhook/?eservice=TPCWEB)
-2. L'Oréal - Customer Service Recording Quality Inspection System, Product Recommendation System
-3. WeMo - Customer Service Knowledge Base Q&A System
-4. ChainSea - AI Trainer System, [LLaMA Training and Deployment Research](https://github.com/JustinHsu1019/LLaMA-Deploy-Train)
+2. ChainSea/L'Oréal - Customer Service Recording Quality Inspection System, Product Recommendation System
+3. ChainSea - AI Trainer System, [LLaMA Training and Deployment Research](https://github.com/JustinHsu1019/LLaMA-Deploy-Train), Customer Service Knowledge Base Q&A System
+4. Aile.Cloud Intelligent Import Work
 
 ## Resume Preview
 
