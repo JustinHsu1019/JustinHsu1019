@@ -6,13 +6,11 @@
 
 ## About Me
 
-[✔](https://www.chainsea.com.tw) Software Engineer at ChainSea
+[✔](https://www.chainsea.com.tw) Part-Time SWE at ChainSea
 
-[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer '23 at Google DSC
+[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
 
 [✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
-
-[✔](https://github.com/JustinHsu1019/Python-Programming-Tutorial) Python Programming Tutor
 
 [✔](https://ms.nccu.edu.tw) NCCU - BSc in Math Sciences
 
@@ -20,7 +18,6 @@
 - Website: [Justin Code](https://justin-code.com)
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
-- YouTube: [@JustinHsu99](https://www.youtube.com/@JustinHsu99)
 
 ## Areas of Expertise
 
