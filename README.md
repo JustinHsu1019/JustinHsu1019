@@ -6,7 +6,9 @@
 
 ## About Me
 
-[✔](https://www.chainsea.com.tw) Part-Time SWE at ChainSea
+[✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
+
+[✔](https://www.chainsea.com.tw) Software Engineer PT at ChainSea
 
 [✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
 
@@ -25,10 +27,12 @@
 - Model Training & Deployment 
 
 ## Project Development Experience
-1. Taiwan Power - [Intelligent Robot Optimization Project](https://smartrobot.taipower.com.tw/Webhook/?eservice=TPCWEB)
-2. ChainSea/L'Oréal - Customer Service Recording Quality Inspection System, Product Recommendation System
-3. ChainSea - AI Trainer System, [LLaMA Training and Deployment Research](https://github.com/JustinHsu1019/LLaMA-Deploy-Train), Customer Service Knowledge Base Q&A System
-4. Aile.Cloud Intelligent Import Work
+1. Taiwan Power: [Intelligent Robot Optimization Project](https://smartrobot.taipower.com.tw/Webhook/?eservice=TPCWEB)
+2. Academia Sinica: AI Chess-like Board Games
+3. L'Oréal (Assisting Outsourced Customer Service for L'Oréal): Product Recommendation System, AI Recording Quality Inspection System
+4. ChainSea: AI Trainer System, [LLaMA Training and Deployment Research](https://github.com/JustinHsu1019/LLaMA-Deploy-Train), Intelligent Q&A System for Customer Service Knowledge Base
+5. [Aile.Cloud](https://www.aile.cloud/) Intelligent Integration Work
+6. [NCCUPass APP](https://nccupass.com/) (Leading the development of AI assistant AllPass)
 
 ## Resume Preview
 
