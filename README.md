@@ -28,7 +28,7 @@
 
 ## Project Development Experience
 1. Taiwan Power: [Intelligent Robot Optimization Project](https://smartrobot.taipower.com.tw/Webhook/?eservice=TPCWEB)
-2. Academia Sinica: AI Chess-like Board Games
+2. Academia Sinica: AI Deep Reinforcement Learning Go Research/Development
 3. L'Oréal (Assisting Outsourced Customer Service for L'Oréal): Product Recommendation System, AI Recording Quality Inspection System
 4. ChainSea: AI Trainer System, [LLaMA Training and Deployment Research](https://github.com/JustinHsu1019/LLaMA-Deploy-Train), Intelligent Q&A System for Customer Service Knowledge Base
 5. [Aile.Cloud](https://www.aile.cloud/) Intelligent Integration Work
