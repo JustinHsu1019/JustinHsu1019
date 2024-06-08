@@ -10,9 +10,11 @@
 
 [✔](https://www.chainsea.com.tw) Software Engineer PT at ChainSea
 
-[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
-
 [✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
+
+[✔](https://nccupass.com) Backend Engineer at NCCUPass
+
+[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
 
 [✔](https://ms.nccu.edu.tw) NCCU - BSc in Math Sciences
 
