@@ -10,9 +10,9 @@
 
 [✔](https://www.chainsea.com.tw) Software Engineer PT at ChainSea
 
-[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
-
 [✔](https://nccupass.com) Backend Engineer at NCCUPass
+
+[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
 
 [✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
 
