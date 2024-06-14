@@ -23,11 +23,6 @@
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
-## Areas of Expertise
-
-- Software Development 
-- Model Training & Deployment 
-
 ## Project Development Experience
 1. Taiwan Power: [Intelligent Robot Optimization Project](https://smartrobot.taipower.com.tw/Webhook/?eservice=TPCWEB)
 2. Academia Sinica: AI Deep Reinforcement Learning Go Research/Development
