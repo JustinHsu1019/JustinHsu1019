@@ -4,7 +4,7 @@
   <img align="right" src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
 </a>
 
-## About Me
+## About Me >> [[CV]](https://docs.google.com/document/d/e/2PACX-1vQKqSOrVxxNNk_9D0PO419VmtzXYywnjNuStEMAK-Bp8a8RKEwKv3rLdAxnP5iif3BH20E4Ghovj3MG/pub)
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
 
@@ -28,9 +28,3 @@
 - Design, Development, and Optimization of RAG Architectures
 - Continual Pretraining and Fine-Tuning (SFT) of Open-Source Models
 - Application and Deployment of Large Language Model Inference Acceleration
-
-## Resume Preview
-
-<a href="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.pdf">
-  <img src="https://github.com/JustinHsu1019/JustinHsu1019/raw/main/JustinHsu_Resume.png" alt="Justin Hsu Resume Preview" />
-</a>
