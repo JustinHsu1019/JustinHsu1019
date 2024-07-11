@@ -4,7 +4,7 @@
   <img align="right" src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
 </a>
 
-## About Me >> [[CV]](https://docs.google.com/document/d/e/2PACX-1vQKqSOrVxxNNk_9D0PO419VmtzXYywnjNuStEMAK-Bp8a8RKEwKv3rLdAxnP5iif3BH20E4Ghovj3MG/pub)
+## About Me >> [[CV]](https://bit.ly/Justin_CV)
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
 
