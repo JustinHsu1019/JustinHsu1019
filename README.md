@@ -23,7 +23,7 @@
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
-## Specializations
+## Research Interests
 - Prompt Engineering
 - Design, Development, and Optimization of RAG Architectures
 - Continual Pretraining and Fine-Tuning (SFT) of Open-Source Models
