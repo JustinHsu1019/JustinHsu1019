@@ -24,7 +24,7 @@
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
 ## Research Interests
-- Prompt Engineering
-- Design, Development, and Optimization of RAG Architectures
-- Continual Pretraining and Fine-Tuning (SFT) of Open-Source Models
-- Application and Deployment of Large Language Model Inference Acceleration
+- Design, Development, and Optimization of RAG Architecture
+- Retrieval Optimization Design and Management of Intelligent Knowledge Base
+- Continual Pre-training and Fine-tuning (SFT) of Open-source Models
+- Reinforcement Learning (LLM RLHF, Deep RL for Computer Games)
