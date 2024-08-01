@@ -16,7 +16,7 @@
 
 [✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
 
-[✔](https://ms.nccu.edu.tw) NCCU - BSc in Math Sciences
+[✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management of Information Systems
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - Website: [Justin Code](https://justin-code.com)
