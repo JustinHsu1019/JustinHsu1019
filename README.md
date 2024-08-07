@@ -4,19 +4,15 @@
   <img align="right" src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
 </a>
 
-## About Me >> [[CV]](https://drive.google.com/drive/folders/1-lPfbGFtmWGx1E_NgN2ODlsD3Mv6TFR3?usp=sharing)
+## About Me >> [[CV]](https://justin-code.com/cv)
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
 
 [✔](https://www.chainsea.com.tw) Software Engineer PT at ChainSea
 
-[✔](https://nccupass.com) Backend Engineer at NCCUPass
+[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin-Code Studio
 
-[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin Code
-
-[✔](https://gdsc.community.dev/national-chengchi-university) Course Lecturer at Google DSC
-
-[✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management of Information Systems
+[✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management of Information Systems (MIS)
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - Website: [Justin Code](https://justin-code.com)
