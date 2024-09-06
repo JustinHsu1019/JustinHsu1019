@@ -6,7 +6,7 @@
 
 ## About Me >> [[CV]](https://justin-code.com/cv)
 
-[✔](https://www.gofreight.com/company) AI Intern at GoFreight
+[✔](https://www.gofreight.com/company) Artificial Intelligence (AI) Intern at GoFreight
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
 
