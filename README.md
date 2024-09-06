@@ -12,7 +12,7 @@
 
 [✔](https://www.chainsea.com.tw) ex-Software Engineer PT at ChainSea
 
-[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Founder, Freelancer of Justin-Code Studio
+[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelance Software Dev
 
 [✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management of Information Systems (MIS)
 
