@@ -10,7 +10,7 @@
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
 
-[✔](https://www.chainsea.com.tw) ex-Software Engineer PT at ChainSea
+[✔](https://www.chainsea.com.tw) ex-Part-time Engineer at ChainSea
 
 [✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelance Software Dev
 
