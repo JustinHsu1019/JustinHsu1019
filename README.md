@@ -14,7 +14,7 @@
 
 [✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelance Software Dev
 
-[✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management of Information Systems (MIS)
+[✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management Information Systems (MIS)
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - Website: [Justin Code](https://justin-code.com)
