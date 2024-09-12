@@ -8,9 +8,9 @@
 
 [✔](https://www.gofreight.com/company) Artificial Intelligence(AI) Intern at GoFreight
 
-[✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at Academia Sinica
+[✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at 中央研究院
 
-[✔](https://www.chainsea.com.tw) ex-Part-time Engineer at ChainSea
+[✔](https://www.chainsea.com.tw) ex-Part-time Engineer at 程曦資訊集團
 
 [✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelance Software Dev
 
