@@ -12,7 +12,7 @@
 
 [✔](https://www.chainsea.com.tw) ex-Part-time Engineer at 程曦資訊集團
 
-[✔](https://www.tasker.com.tw/workroom/Gm0Pr0) Freelance Software Dev via Tasker
+Founder, Freelancer of Justin-Code Studio
 
 [✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management Information Systems(MIS)
 
