@@ -1,7 +1,7 @@
 # Justin Hsu, 19y
 
 <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-  <img align="right" src="https://justinhsu-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
 </a>
 
 ## About Me >> [[CV]](https://justin-code.com/cv)
