@@ -6,13 +6,13 @@
 
 ## About Me >> [[CV]](https://justin-code.com/cv)
 
+Founder, Freelancer of JustNi Studio
+
 [✔](https://www.gofreight.com/company) Artificial Intelligence(AI) Intern at GoFreight
 
 [✔](https://iis.sinica.edu.tw/zh/index.html) Research Assistant at 中央研究院
 
 [✔](https://www.chainsea.com.tw) ex-Part-time Engineer at 程曦資訊集團
-
-Founder, Freelancer of JustNi Studio
 
 [✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management Information Systems(MIS)
 
