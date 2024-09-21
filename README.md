@@ -17,7 +17,7 @@ Founder, Freelancer of JustNi Studio
 [✔](https://mis2.nccu.edu.tw) NCCU - BSc in Management Information Systems(MIS)
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
-- Website: [JustNi](https://justin-code.com)
+- Website: [JustNi Studio](https://justin-code.com)
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
