@@ -10,11 +10,11 @@ Founder, Freelancer of [JustNi Studio](https://justin-code.com)
 
 AI Intern at [GoFreight](https://www.gofreight.com/company) <sub>全球最大的雲端貨代軟體</sub>
 
-Research Assistant at [中央研究院](https://iis.sinica.edu.tw/zh/index.html) <sub>台灣最高的學術研究機構</sub>
+Research Assistant at [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) <sub>台灣最高的學術研究機構</sub>
 
-ex-Part-time Engineer at [程曦資訊集團](https://www.chainsea.com.tw) <sub>大中華區 CRM 領導品牌</sub>
+ex-Part-time Engineer at [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) <sub>大中華區 CRM 領導品牌</sub>
 
-BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw) <sub>台灣前三大最佳商管學院</sub>
+BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/Introduction/about1) <sub>台灣前三大最佳商管學院</sub>
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - Website: [JustNi Studio](https://justin-code.com)
