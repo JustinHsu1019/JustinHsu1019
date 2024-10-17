@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html" alt="Top Languages" />
 </a>
 
-## About Me >> [[CV]](https://justin-code.com/cv)
+## About Me&nbsp;[《CV 履歷》](https://justin-code.com/cv)
 
 Founder, Freelancer of [JustNi Studio](https://justin-code.com)
 
