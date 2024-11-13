@@ -21,6 +21,9 @@ BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/I
 - LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
+## Open Source Contributions
+[JustinHsu1019/stats.md](https://github.com/JustinHsu1019/JustinHsu1019/blob/main/stats.md)
+
 ## Research Interests
 - Design, Development, and Optimization of RAG Architecture
 - Retrieval Optimization Design and Management of Intelligent Knowledge Base
