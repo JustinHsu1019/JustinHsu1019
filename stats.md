@@ -9,8 +9,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinHsu1019&show_icons=true&theme=github_dark_dimmed" alt="JustinHsu1019's GitHub Stats" />
   </a>
   <br />
-  <a href="https://github.com/JustinHsu1019/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustinHsu1019&theme=github_dark_dimmed" alt="JustinHsu1019's streak" />
-  </a>
-  <br />
 </p>
