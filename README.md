@@ -8,7 +8,7 @@
 
 Founder, Freelancer of [JustNi Studio](https://justin-code.com)
 
-AI Intern at [GoFreight](https://www.gofreight.com/company) <sub>全球最大的雲端貨代軟體</sub>
+AI Intern at [GoFreight](https://www.gofreight.com/) <sub>全球最大的雲端貨代軟體</sub>
 
 Research Assistant at [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) <sub>台灣最高的學術研究機構</sub>
 
