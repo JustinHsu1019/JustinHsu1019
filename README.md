@@ -22,7 +22,17 @@ BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/I
 - Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
 ## Open Source Contributions
-[JustinHsu1019/stats.md](https://github.com/JustinHsu1019/JustinHsu1019/blob/main/stats.md)
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/stats.md">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinHsu1019&show_icons=true&theme=github_dark_dimmed" alt="JustinHsu1019's GitHub Stats" />
+  </a>
+  <br />
+</p>
 
 ## Research Interests
 - Design, Development, and Optimization of RAG Architecture
