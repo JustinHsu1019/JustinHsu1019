@@ -35,7 +35,7 @@ BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/I
 </p>
 
 ## Research Interests
-- Design, Development, and Optimization of RAG Architecture
-- Retrieval Optimization Design and Management of Intelligent Knowledge Base
-- Continual Pre-training and Fine-tuning (SFT) of Open-source Models
-- Reinforcement Learning (LLM RLHF, Deep RL for Computer Games)
+- Information Retrieval
+- Natural Language Processing
+- Large Language Models
+- Machine Learning
