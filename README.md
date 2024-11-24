@@ -1,4 +1,4 @@
-# Justin Hsu, 20y
+# 許新翎 (Justin Hsu)
 
 <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html&theme=github_dark_dimmed" alt="Top Languages" />
