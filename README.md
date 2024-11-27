@@ -29,7 +29,7 @@ BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/I
 
 <p align="left">
   <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/stats.md">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinHsu1019&show_icons=true&theme=github_dark_dimmed" alt="JustinHsu1019's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinHsu1019&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="JustinHsu1019's GitHub Stats" />
   </a>
   <br />
 </p>
