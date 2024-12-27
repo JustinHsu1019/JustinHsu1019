@@ -12,7 +12,7 @@ AI Intern at [GoFreight](https://www.gofreight.com/) <sub>全球最大的雲端�
 
 Research Assistant at [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) <sub>台灣最高的學術研究機構</sub>
 
-ex-Part-time Engineer at [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) <sub>大中華區 CRM 領導品牌</sub>
+Research Assistant at [亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx)
 
 BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/Introduction/about1) <sub>台灣前三大最佳商管學院</sub>
 
