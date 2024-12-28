@@ -14,6 +14,10 @@ Research Assistant at [中央研究院](https://www.iis.sinica.edu.tw/en/page/Ab
 
 Research Assistant at [亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx)
 
+National 2nd Place in [HOTAI MaaS Hackathon](https://tw.news.yahoo.com/2024%E5%92%8C%E6%B3%B0maas%E9%BB%91%E5%AE%A2%E6%9D%BE-%E7%AB%B6%E8%B3%BD%E7%B5%90%E6%9E%9C%E6%8F%AD%E6%9B%89-084102303.html) <sub>[2/233 teams; ~0.8%]</sub>
+
+National 3nd Place in [LINE FRESH Campus Competition](https://linecorp.com/tw/pr/news/2024/1226/) <sub>[3/165 teams; ~1.8%]</sub>
+
 BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/Introduction/about1) <sub>台灣前三大最佳商管學院</sub>
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
