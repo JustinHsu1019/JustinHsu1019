@@ -18,7 +18,7 @@ National 2nd Place in [HOTAI MaaS Hackathon](https://tw.news.yahoo.com/2024%E5%9
 
 National 3nd Place in [LINE FRESH Campus Competition](https://linecorp.com/tw/pr/news/2024/1226/) <sub>[3/165 teams; ~1.8%]</sub>
 
-BSc in Management Information Systems(MIS), [NCCU](https://mis2.nccu.edu.tw/en/Introduction/about1) <sub>台灣前三大最佳商管學院</sub>
+BSc in MIS, [National Chengchi University](https://mis2.nccu.edu.tw/en/Introduction/about1) <sub>台灣前三大最佳商管學院</sub>
 
 - Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 - Website: [JustNi Studio](https://justin-code.com)
