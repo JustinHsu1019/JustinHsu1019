@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html&theme=github_dark_dimmed" alt="Top Languages" />
 </a>
 
-## About Me&nbsp;[《CV 履歷》](https://justin-code.com/cv)
+## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
 
 **許新翎**（英語：Justin Hsu，2004年10月19日—），人工智慧學生研究員、研發工程師。研究專長為自然語言處理、資訊檢索、大型語言模型與機器學習。現任 [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) 強化學習實驗室研究助理、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理及 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師，現於 [國立政治大學資訊管理學系](https://mis2.nccu.edu.tw/en/Introduction/about1) 攻讀學士學位中。曾任 [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼任軟體工程師。
 
