@@ -13,7 +13,7 @@
 2024年12月，以結合社群平台與智能行程健檢的解決方案榮獲和泰與微軟共同舉辦之 [和泰 MaaS 黑客松競賽](https://tw.news.yahoo.com/2024%E5%92%8C%E6%B3%B0maas%E9%BB%91%E5%AE%A2%E6%9D%BE-%E7%AB%B6%E8%B3%BD%E7%B5%90%E6%9E%9C%E6%8F%AD%E6%9B%89-084102303.html) 全國亞軍 [2/233 teams; ~0.8%]。並在同年12月再度以智能失智症照護平台榮獲 LINE 舉辦之 [LINE FRESH 校園競賽](https://linecorp.com/tw/pr/news/2024/1226/) 全國季軍 [3/165 teams; ~1.8%]。
 
 1. Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
-2. Website: [JustNi Studio](https://justin-code.com)
+2. Homepage: [JustNi Studio](https://justin-code.com)
 3. LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 4. Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
 
