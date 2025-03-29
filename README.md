@@ -6,7 +6,7 @@
 
 ## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
 
-**許新翎**（英語：Justin Hsu，2004年10月19日—），人工智慧學生研究員、研發工程師。研究專長為自然語言處理、資訊檢索、大型語言模型與機器學習。現任 [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) 強化學習實驗室研究助理、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理及 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師，現於 [國立政治大學資訊管理學系](https://mis2.nccu.edu.tw/en/Introduction/about1) 攻讀學士學位中。曾任 [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼任軟體工程師。
+**許新翎**（英語：Justin Hsu，2004年10月19日—），人工智慧學生研究員、研發工程師。研究專長為資訊檢索、醫療人工智慧、大型語言模型與自然語言處理。現任 [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) 強化學習實驗室研究助理、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理及 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師，現於 [國立政治大學資訊管理學系](https://mis2.nccu.edu.tw/en/Introduction/about1) 攻讀學士學位中。曾任 [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼任軟體工程師。
 
 過去曾參與多項專案研發，含 [台電智能機器人優化案](https://service.taipower.com.tw:4433/smartrobot/)（台電官網智能客服「電寶」訓練資料優化案）、[高檢索準確率 RAG 開源模板](https://github.com/JustinHsu1019/AICUP2024-RAG-LLM)（Focus on Applying LLM and RAG to Financial Q&A）、[政大通 APP](https://nccupass.com)（領導人工智慧團隊之產品研發，已有逾 2000 位政大學生註冊使用，並在多次新創競賽中榮獲佳績）。
 
@@ -34,6 +34,6 @@
 
 ## Research Interests
 - Information Retrieval
-- Natural Language Processing
+- AI for Healthcare
 - Large Language Models
-- Machine Learning
+- Natural Language Processing
