@@ -16,8 +16,8 @@
 
 1. Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
 2. Homepage: [JustNi Studio](https://justin-code.com)
-3. LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
-4. Instagram: [@Justin.Hsu.99](https://www.instagram.com/justin.hsu.99/)
+3. Google Scholar: [Hsin-Ling Hsu](https://scholar.google.com/citations?user=pCXJM5AAAAAJ)
+4. LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
 
 ## Open Source Contributions
 
