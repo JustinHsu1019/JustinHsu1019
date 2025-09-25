@@ -36,7 +36,8 @@
 
 ## Research Interests
 - Information Retrieval
-- AI for Healthcare
-- Large Language Models
 - Natural Language Processing
+- AI for Healthcare
+- Trustworthy AI
+
 
