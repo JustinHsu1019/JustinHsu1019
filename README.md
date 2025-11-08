@@ -35,10 +35,11 @@
 </p>
 
 ## Research Interests
-- Information Retrieval
 - Natural Language Processing
 - AI for Healthcare
-- Trustworthy AI
+- Information Retrieval
+- Generative AI
+
 
 
 
