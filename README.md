@@ -6,7 +6,7 @@
 
 ## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
 
-**許新翎**（英語：Justin Hsu，2004年10月19日—），為一位具備超過 2 年軟體產業與人工智慧研究經驗的人工智慧學生研究員與研發工程師。研究專長為資訊檢索、醫療人工智慧、大型語言模型與自然語言處理。現任 [中央研究院](https://www.iis.sinica.edu.tw/en/page/AboutUs/Introduction.html) 強化學習實驗室研究助理、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理及 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師，現於 國立政治大學 雙主修 資訊管理學系(MIS) 與 資訊科學系(CS) 攻讀學士學位中。曾任 [程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼職 AI 工程師。
+**許新翎**（英語：Justin Hsu，2004年10月19日—），為一位具備超過 2 年軟體產業與人工智慧研究經驗的人工智慧學生研究員與研發工程師。研究專長為自然語言處理、大型語言模型、醫療人工智慧 與 資訊檢索。現任 [Texas A&M University FLAIR Lab](https://khhuang.me/) Research Intern (Visiting Student)、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理，現於 國立政治大學 雙主修 資訊管理學系(MIS) 與 資訊科學系(CS) 攻讀學士學位中。曾任 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師、[程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼職 AI 工程師。
 
 
 過去曾參與多項專案研發，包括 [台電智能機器人優化案](https://service.taipower.com.tw:4433/smartrobot/)（台電官網智能客服「電寶」訓練資料優化案）、[政大通 APP](https://nccupass.com)（領導人工智慧團隊之產品研發，已有逾 2000 位政大學生註冊使用，並在多次新創競賽中榮獲佳績）。同時，作為第一作者發表多篇學術論文，包括[《MedPlan: A Two-Stage RAG-Based System for Personalized Medical Plan Generation》](https://arxiv.org/pdf/2503.17900)(ACL 2025 Ind.)、[《DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented Generation》](https://arxiv.org/pdf/2503.23013)以及[《KAP: MLLM-assisted OCR Text Enhancement for Hybrid Retrieval in Chinese Non-Narrative Documents》](https://arxiv.org/pdf/2503.08452)。
