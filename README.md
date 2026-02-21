@@ -36,7 +36,8 @@
 
 ## Research Interests
 - AI for Healthcare
-- Trustworthy VLM/LLM
+- Trustworthy VLMs/LLMs
+
 
 
 
