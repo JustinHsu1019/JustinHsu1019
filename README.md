@@ -1,8 +1,8 @@
 # 許新翎 (Justin Hsu)
 
-<a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/Top_Lang.md">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinHsu1019&hide=html&theme=github_dark_dimmed" alt="Top Languages" />
-</a>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
+</p>
 
 ## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
 
@@ -18,21 +18,6 @@
 2. Homepage: [JustNi Studio](https://justin-code.com)
 3. Google Scholar: [Hsin-Ling Hsu](https://scholar.google.com/citations?user=pCXJM5AAAAAJ)
 4. LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
-
-## Open Source Contributions
-
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JustinHsu1019&theme=onedark&title=-Experience,-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">
-  <a href="https://github.com/JustinHsu1019/JustinHsu1019/blob/main/stats.md">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinHsu1019&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="JustinHsu1019's GitHub Stats" />
-  </a>
-  <br />
-</p>
 
 ## Research Interests
 - AI for Healthcare
