@@ -4,6 +4,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
 </p>
 
+## I am currently preparing my application for US CS PhD programs in Fall 2027!
+
 ## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
 
 **許新翎**（英語：Justin Hsu，2004年10月19日—），為一位具備超過 2 年軟體產業與人工智慧研究經驗的人工智慧學生研究員與研發工程師。研究專長為 AI for Healthcare and Trustworthy VLMs/LLMs。現任 [Texas A&M University FLAIR Lab](https://khhuang.me/) Remote Research Intern、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理，現於 國立政治大學 雙主修 資訊管理學系(MIS) 與 資訊科學系(CS) 攻讀學士學位中。曾任 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師、[程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼職 AI 工程師。
