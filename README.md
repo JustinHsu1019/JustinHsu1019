@@ -8,7 +8,9 @@
 
 > [!IMPORTANT]
 > 🎓 **News:** I am applying for **CS PhD programs (Fall 2027)**.
+> 
 > Research interests: Medical AI, Trustworthy AI.
+> 
 > 📄 [CV](https://justin-code.com/cv) · 🌐 [Homepage](https://justin-code.com) · ✉️ [Email](mailto:justin.hsu.1019@gmail.com)
 
 ## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
