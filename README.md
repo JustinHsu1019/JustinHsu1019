@@ -1,40 +1,39 @@
-# 許新翎 (Justin Hsu)
+# Hsin-Ling (Justin) Hsu
 
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" />
-</p>
-
-## I am currently preparing my application for US CS PhD programs in Fall 2027!
+Undergraduate researcher at National Chengchi University (NCCU), working on **trustworthy LLMs and VLMs**: hallucination, interpretability, and verifiable model repair, with applications in healthcare.
 
 > [!IMPORTANT]
-> 🎓 **News:** I am applying for **CS PhD programs (Fall 2027)**.
-> 
-> Research interests: Medical AI, Trustworthy AI.
-> 
-> 📄 [CV](https://justin-code.com/cv) · 🌐 [Homepage](https://justin-code.com) · ✉️ [Email](mailto:justin.hsu.1019@gmail.com)
+> 🎓 I am applying to **CS PhD programs for Fall 2027**.
+>
+> 🌐 [Homepage](https://justin-code.com) · 📄 [CV](https://justin-code.com/cv/CV.pdf) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=pCXJM5AAAAAJ) · ✉️ [Email](mailto:justin.hsu.1019@gmail.com)
 
-## About Me&nbsp;[《Resume》](https://justin-code.com/cv)
+## About Me
 
-**許新翎**（英語：Justin Hsu，2004年10月19日—），為一位具備超過 2 年軟體產業與人工智慧研究經驗的人工智慧學生研究員與研發工程師。研究專長為 AI for Healthcare and Trustworthy VLMs/LLMs。現任 [Texas A&M University FLAIR Lab](https://khhuang.me/) Remote Research Intern、[亞東紀念醫院](https://www.femh.org.tw/MainPage_en/index.aspx) 人工智慧團隊研究助理，現於 國立政治大學 雙主修 資訊管理學系(MIS) 與 資訊科學系(CS) 攻讀學士學位中。曾任 [GoFreight](https://www.gofreight.com/) 人工智慧實習研發工程師、[程曦資訊集團](https://www.chainsea.com.tw/about/introduction/) 兼職 AI 工程師。
+I am a senior undergraduate at NCCU, double majoring in Computer Science and Management Information Systems. I currently work with [Prof. Kuan-Hao Huang](https://khhuang.me) at Texas A&M University on hallucination in vision-language models, and collaborate with [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/)'s group at the University of Michigan on active clinical diagnostic agents. I am also a research assistant at [Far Eastern Memorial Hospital](https://www.femh.org.tw/mainpage_en/Introduction.aspx), where my system MedPlan (ACL 2025) has been deployed. At NCCU, I work with Prof. Fang Yu on verifiable repair of language models and with Prof. Shi-Sheng Sun on explainable trajectory prediction.
 
+## Selected Work
 
-過去曾參與多項專案研發，包括 [台電智能機器人優化案](https://service.taipower.com.tw:4433/smartrobot/)（台電官網智能客服「電寶」訓練資料優化案）、[政大通 APP](https://nccupass.com)（領導人工智慧團隊之產品研發，已有逾 2000 位政大學生註冊使用，並在多次新創競賽中榮獲佳績）。同時，作為第一作者發表多篇學術論文，包括[《MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs》](https://arxiv.org/pdf/2605.07305)(COLM 2026, ~29%)、[《MedPlan: A Two-Stage RAG-Based System for Personalized Medical Plan Generation》](https://aclanthology.org/2025.acl-industry.76/)(ACL 2025 ind., ~25.6%)、[《DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented Generation》](https://arxiv.org/pdf/2503.23013)以及[《KAP: MLLM-assisted OCR Text Enhancement for Hybrid Retrieval in Chinese Non-Narrative Documents》](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ai_cup/01-AICUP-AICUP-HsuH.pdf)，並另有多項相關研究成果。
+| Project | What it is | Links |
+| --- | --- | --- |
+| **NAME-Bench** | Not every object mention is a hallucination claim: a 25K-mention benchmark showing hallucination detectors conflate mentioning an object with asserting it. *Under review at ARR.* | [paper](https://arxiv.org/pdf/2610.23610) · [data](https://github.com/lab-flair/NAME_Bench) |
+| **MedAction** | Active multi-turn clinical diagnostic LLMs: MedAction-32K trajectories; our 8B model is SOTA among open-source models on MedRBench. *COLM 2026.* | [paper](https://openreview.net/forum?id=2ZtsUgwVbx) · [code/data](https://github.com/JustinHsu1019/MedAction) |
+| **MedPlan** | Two-stage RAG system for personalized medical plans, deployed at Far Eastern Memorial Hospital. *ACL 2025 Industry Track.* | [paper](https://aclanthology.org/2025.acl-industry.76.pdf) · [patent](https://patents.google.com/patent/TWM682510U/en) |
+| **WARP** | Provable inner-layer repair of Transformer models via convex optimization. *arXiv 2026.* | [paper](https://arxiv.org/pdf/2604.00938) · [code](https://github.com/sostrustfix/WARP) |
+| **FORGE** | Verification-gated behavioral repair (bias, toxicity) for generative LLMs. *Under review at ICSE 2027.* | [paper](https://arxiv.org/pdf/2610.05190) · [code](https://github.com/sostrustfix/FORGE) |
+| **KAP** | MLLM-assisted OCR enhancement for hybrid retrieval in Chinese documents. *NTCIR-18, oral.* | [paper](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ai_cup/01-AICUP-AICUP-HsuH.pdf) · [code](https://github.com/JustinHsu1019/KAP) |
 
-
-2024年12月，以結合社群平台與智能行程健檢的解決方案榮獲和泰與微軟共同舉辦之 [和泰 MaaS 黑客松競賽](https://tw.news.yahoo.com/2024%E5%92%8C%E6%B3%B0maas%E9%BB%91%E5%AE%A2%E6%9D%BE-%E7%AB%B6%E8%B3%BD%E7%B5%90%E6%9E%9C%E6%8F%AD%E6%9B%89-084102303.html) 全國亞軍 [2/233 teams; ~0.8%]。並在同年12月再度以智能失智症照護平台榮獲 LINE 舉辦之 [LINE FRESH 校園競賽](https://linecorp.com/tw/pr/news/2024/1226/) 全國季軍 [3/165 teams; ~1.8%]。
-
-1. Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
-2. Homepage: [JustNi Studio](https://justin-code.com)
-3. Google Scholar: [Hsin-Ling Hsu](https://scholar.google.com/citations?user=pCXJM5AAAAAJ)
-4. LinkedIn: [JustinHsu101999](https://www.linkedin.com/in/justinhsu101999/)
+Full publication list: [Homepage](https://justin-code.com/#publications) · [Google Scholar](https://scholar.google.com/citations?user=pCXJM5AAAAAJ)
 
 ## Research Interests
-- AI for Healthcare
-- Trustworthy VLMs/LLMs
 
+- Trustworthy foundation models (LLMs and VLMs)
+- Hallucination, interpretability, and verifiable model repair
+- High-stakes applications: healthcare and autonomous driving
 
+## Contact
 
-
-
-
-
+- Email: [justin.hsu.1019@gmail.com](mailto:justin.hsu.1019@gmail.com)
+- Homepage: [justin-code.com](https://justin-code.com)
+- Google Scholar: [Hsin-Ling Hsu](https://scholar.google.com/citations?user=pCXJM5AAAAAJ)
+- LinkedIn: [justinhsu101999](https://www.linkedin.com/in/justinhsu101999/)
+- X: [@JustinHsu99](https://x.com/JustinHsu99)
