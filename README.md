@@ -9,7 +9,7 @@ Undergraduate researcher at National Chengchi University (NCCU), working on **tr
 
 ## About Me
 
-I am a senior undergraduate at NCCU, double majoring in Computer Science and Management Information Systems. I currently work with [Prof. Kuan-Hao Huang](https://khhuang.me) at Texas A&M University on hallucination in vision-language models, and collaborate with [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/)'s group at the University of Michigan on active clinical diagnostic agents. I am also a research assistant at [Far Eastern Memorial Hospital](https://www.femh.org.tw/mainpage_en/Introduction.aspx), where my system MedPlan (ACL 2025) has been deployed. At NCCU, I work with Prof. Fang Yu on verifiable repair of language models and with Prof. Shi-Sheng Sun on explainable trajectory prediction.
+I am a senior undergraduate at NCCU, double majoring in Management Information Systems and Computer Science. I currently work with [Prof. Kuan-Hao Huang](https://khhuang.me) at Texas A&M University on hallucination in vision-language models, and collaborate with [Prof. Liyue Shen](https://liyueshen.engin.umich.edu/)'s group at the University of Michigan on active clinical diagnostic agents. I am also a research assistant at [Far Eastern Memorial Hospital](https://www.femh.org.tw/mainpage_en/Introduction.aspx), where my system MedPlan (ACL 2025) has been deployed. At NCCU, I work with Prof. Fang Yu on verifiable repair of language models and with Prof. Shi-Sheng Sun on explainable trajectory prediction.
 
 ## Selected Work
 
